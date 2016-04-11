@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: LOOSE ENDS
-datePublished: '2016-04-11T23:42:39.403Z'
-dateModified: '2016-04-11T23:42:36.430Z'
+datePublished: '2016-04-11T23:47:50.437Z'
+dateModified: '2016-04-11T23:42:44.215Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md

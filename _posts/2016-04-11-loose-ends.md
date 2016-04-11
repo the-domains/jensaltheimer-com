@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: LOOSE ENDS
-datePublished: '2016-04-11T23:20:43.246Z'
-dateModified: '2016-04-11T23:19:34.675Z'
+datePublished: '2016-04-11T23:42:39.403Z'
+dateModified: '2016-04-11T23:42:36.430Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-loose-ends.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-loose-ends.md
-published: true
 url: loose-ends/index.html
 _type: Article
 

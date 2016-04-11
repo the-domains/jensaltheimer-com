@@ -1,0 +1,28 @@
+name: jensaltheimer.com
+favicon: null
+layout_spectrum: 0.10732598695904016
+typography_spectrum: 0.04366772435605526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13631808594800532
+  lightness: 0.6229467277880758
+  saturation: 0.6468462387565523
+  rhythmicContrast: 0.6123335983138531
+purpose: []

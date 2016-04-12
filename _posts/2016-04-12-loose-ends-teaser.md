@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/124080851'
 inLanguage: null
 starred: false
 keywords: []
-description: Rehearsing process video. New video online soon.
-datePublished: '2016-04-12T05:14:07.315Z'
-dateModified: '2016-04-12T05:14:06.647Z'
+description: ''
+datePublished: '2016-04-12T05:18:52.779Z'
+dateModified: '2016-04-12T05:18:52.111Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'

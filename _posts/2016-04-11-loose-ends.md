@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: LOOSE ENDS
-datePublished: '2016-04-11T23:47:50.437Z'
-dateModified: '2016-04-11T23:42:44.215Z'
-title: ''
+description: ''
+datePublished: '2016-04-12T04:00:21.561Z'
+dateModified: '2016-04-12T03:58:34.387Z'
+title: 'LOOSE ENDS: The Show'
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md
 published: true
@@ -24,9 +24,9 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f8bd0140e85c140047f6520af98f21ff88c0b8b.jpg)
 
-LOOSE ENDS
+# LOOSE ENDS: The Show
 
-Where Naughty Puppets meet Wacky Contraptions
+## Where Naughty Puppets meet Wacky Contraptions
 
 MAKERS, CREATORS, STORY-LOVERS: Dive into a theatrical adventure full of action, that feels like the magic box of a bygone trickster!
 Set in a wondrous tinkering heaven, the show is a celebration of the capricious. 

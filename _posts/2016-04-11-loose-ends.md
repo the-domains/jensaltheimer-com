@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T04:00:21.561Z'
-dateModified: '2016-04-12T03:58:34.387Z'
+datePublished: '2016-04-12T05:11:53.630Z'
+dateModified: '2016-04-12T05:11:47.727Z'
 title: 'LOOSE ENDS: The Show'
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md
@@ -32,7 +32,7 @@ MAKERS, CREATORS, STORY-LOVERS: Dive into a theatrical adventure full of action,
 Set in a wondrous tinkering heaven, the show is a celebration of the capricious. 
 
 Familiar household items are transformed and show off with new and delightful uses, offering a humorous and human look at the world that surrounds us.
-Expect clever clowning, custom- built contraptions, headstrong puppets, circus, shadow projection, music with carrots, wacky gadgets and a whole lot of fun...but don't expect that everything follows the path of your expectations! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fb3c9e0-4419-4c0b-b14a-a8d21020f383.jpg)
+Expect clever clowning, custom- built contraptions, headstrong puppets, circus, shadow projection, music with carrots, wacky gadgets and a whole lot of fun...but don't expect that everything follows the path of your expectations! 
 
 Loose Ends is a story about a man who thinks he can organise all his life in boxes....
-well, he'll have to learn a big thing about real friendship!
+well, he'll have to learn a big thing about real friendship! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ac7fbb-afb1-4548-a08e-8f2f1c29f835.jpg)

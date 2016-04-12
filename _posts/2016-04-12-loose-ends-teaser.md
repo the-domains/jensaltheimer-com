@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Rehearsing process video. New video online soon.
-datePublished: '2016-04-12T00:35:16.986Z'
-dateModified: '2016-04-12T00:21:47.580Z'
+datePublished: '2016-04-12T03:00:36.717Z'
+dateModified: '2016-04-12T00:38:16.613Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'

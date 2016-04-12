@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Rehearsing process video. New video online soon.
-datePublished: '2016-04-12T03:00:36.717Z'
-dateModified: '2016-04-12T00:38:16.613Z'
+datePublished: '2016-04-12T04:02:26.250Z'
+dateModified: '2016-04-12T04:02:25.575Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Loose Ends Teaser
+sourcePath: _posts/2016-04-12-loose-ends-teaser.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-04-12-loose-ends-teaser.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 

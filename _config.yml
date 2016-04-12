@@ -1,7 +1,7 @@
 name: www.jensaltheimer.com
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.04366772435605526
+layout_spectrum: 0
+typography_spectrum: 0.1786
 cta:
   domain: null
   bucket: null

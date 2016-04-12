@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Robyn Mc Nicol, Coordinator Whitehorse Centre'
-datePublished: '2016-04-12T02:48:25.860Z'
-dateModified: '2016-04-12T02:46:58.876Z'
+datePublished: '2016-04-12T04:02:32.160Z'
+dateModified: '2016-04-12T02:56:04.195Z'
 title: What people said after the first shows
 author: []
+sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md
-published: true
 url: what-people-said-after-the-first-shows/index.html
 _type: Article
 
 ---
-Thank you[][0]for presenting Loose Ends here today.  I had very positive feedback from patrons, particularly parents who liked the fact that their kids were so engaged in something not screen based!
+Thank you [][0]for presenting Loose Ends here today.  I had very positive feedback from patrons, particularly parents who liked the fact that their kids were so engaged in something not screen based!
 
 Robyn Mc Nicol, Coordinator Whitehorse Centre
 

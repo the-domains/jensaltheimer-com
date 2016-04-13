@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Robyn Mc Nicol, Coordinator Whitehorse Centre'
-datePublished: '2016-04-13T06:03:42.322Z'
-dateModified: '2016-04-13T06:03:07.657Z'
+datePublished: '2016-04-13T08:54:20.999Z'
+dateModified: '2016-04-13T08:54:20.302Z'
 title: What people said after the first shows
 author: []
 sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md

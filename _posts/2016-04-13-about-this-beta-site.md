@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T03:39:12.133Z'
-dateModified: '2016-04-13T03:39:06.184Z'
+datePublished: '2016-04-13T04:49:34.135Z'
+dateModified: '2016-04-13T04:49:26.050Z'
 title: About this Beta Site
 author: []
 sourcePath: _posts/2016-04-13-about-this-beta-site.md
@@ -24,4 +24,6 @@ _type: WebPage
 ---
 About this Beta Site
 
-This site is built within a start-up web designing system, still running in beta mode. Please click the picture of each post to access all relevant written information.
+This site is created with a start-up web- designing platform, unfortunately still running in beta mode.  
+
+To access all relevant written information, please click the picture of each post

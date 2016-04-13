@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://vimeo.com/124080851'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T05:18:52.779Z'
-dateModified: '2016-04-12T05:18:52.111Z'
+datePublished: '2016-04-13T02:42:03.026Z'
+dateModified: '2016-04-13T02:41:20.403Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'
@@ -50,6 +49,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: loose-ends-teaser/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

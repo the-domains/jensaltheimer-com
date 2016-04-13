@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Robyn Mc Nicol, Coordinator Whitehorse Centre'
-datePublished: '2016-04-13T21:50:30.744Z'
-dateModified: '2016-04-13T21:50:16.752Z'
+description: ''
+datePublished: '2016-04-13T21:59:46.636Z'
+dateModified: '2016-04-13T21:58:58.083Z'
 title: What people said after the first shows
 author: []
 sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md
@@ -34,8 +34,7 @@ _type: Article
 > 
 > _Amanda Besley, Facebook _
 > 
-> _  
-> _
+> __
 
 > > Thanks Jens for a great Loose Ends show this morning at Whitehorse Centre. The kids and I loved it!
 > > 

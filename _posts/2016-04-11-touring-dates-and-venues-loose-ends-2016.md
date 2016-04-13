@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Touring Dates and Venues LOOSE ENDS 2016
-datePublished: '2016-04-12T05:12:13.570Z'
-dateModified: '2016-04-12T05:07:35.189Z'
+datePublished: '2016-04-13T02:42:09.191Z'
+dateModified: '2016-04-13T02:41:44.647Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md

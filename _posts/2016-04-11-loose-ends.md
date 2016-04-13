@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T03:41:52.382Z'
-dateModified: '2016-04-13T03:41:44.780Z'
+datePublished: '2016-04-13T04:14:35.543Z'
+dateModified: '2016-04-13T04:14:30.224Z'
 title: 'LOOSE ENDS: The Show'
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md

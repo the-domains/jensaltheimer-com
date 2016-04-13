@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T02:31:00.391Z'
-dateModified: '2016-04-13T02:27:34.347Z'
+datePublished: '2016-04-13T03:24:38.016Z'
+dateModified: '2016-04-13T03:22:45.283Z'
 title: 'LOOSE ENDS: The Show'
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md

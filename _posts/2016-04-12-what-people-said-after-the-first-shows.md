@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T03:05:23.060Z'
-dateModified: '2016-04-15T03:04:42.535Z'
+datePublished: '2016-04-15T04:21:23.817Z'
+dateModified: '2016-04-15T04:20:29.572Z'
 title: What people said after the first shows
 author: []
 sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md
@@ -22,7 +22,7 @@ url: what-people-said-after-the-first-shows/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4fdc81-6398-4fb3-bd33-b08a657fb2dc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa5ef37082ab8da7c837da70054733f36b3d35a9.jpg)
 
 > Thank you for presenting Loose Ends here today.  I had very positive feedback from patrons, particularly parents who liked the fact that their kids were so engaged in something not screen based!
 > 

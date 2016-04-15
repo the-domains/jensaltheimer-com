@@ -6,23 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: School groups
-datePublished: '2016-04-15T02:24:02.985Z'
-dateModified: '2016-04-15T02:23:44.767Z'
+datePublished: '2016-04-15T02:46:10.194Z'
+dateModified: '2016-04-15T02:46:06.472Z'
 title: Target Audiences
 author: []
+sourcePath: _posts/2016-04-15-target-audiences.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-target-audiences.md
-published: true
 url: target-audiences/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ff5a52f-1b35-432b-acce-ce2734665d5b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d771a028-9b8a-46a8-852b-242a772b36dd.jpg)
 
 ## Key Audience Segments & Possible Approaches

@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T21:50:29.367Z'
-dateModified: '2016-04-13T21:50:28.665Z'
+datePublished: '2016-04-15T02:42:50.257Z'
+dateModified: '2016-04-15T02:42:45.150Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'
@@ -55,5 +55,3 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F124080851&amp;url=https%3A%2F%2Fvimeo.com%2F124080851&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F513670007_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd6e4812-2cb5-4738-b754-dedb8bbfc300.jpg)

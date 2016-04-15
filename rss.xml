@@ -4,7 +4,7 @@
         <description><![CDATA[www.jensaltheimer.com]]></description>
         <link>https://thegrid.ai/jensaltheimer-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 02:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 02:46:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jensaltheimer-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,6 +14,20 @@
             <pubDate>Wed, 13 Apr 2016 03:47:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Target Audiences]]></title>
+            <description><![CDATA[<article><h1>Target Audiences</h1><p>School groups</p></article>]]></description>
+            <link>https://thegrid.ai/jensaltheimer-com/target-audiences/index.html</link>
+            <guid isPermaLink="false">ad1c6eb3-85c3-4d66-a817-600df93523d5</guid>
+            <pubDate>Fri, 15 Apr 2016 02:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loose Ends Teaser]]></title>
+            <description><![CDATA[<article><h1>Loose Ends Teaser</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29be5a62bec9a05be007e2d3cc016ff3d6222cc3.jpg"></article>]]></description>
+            <link>https://vimeo.com/124080851</link>
+            <guid isPermaLink="false">1d549d39-f6bd-49c2-9f50-b865999660e0</guid>
+            <pubDate>Fri, 15 Apr 2016 02:42:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What people said after the first shows]]></title>
             <description><![CDATA[<article><h1>What people said after the first shows</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a40428cbc977f1fa6d76b9687890c2f92d14d9.jpg"></article>]]></description>
             <link>https://thegrid.ai/jensaltheimer-com/what-people-said-after-the-first-shows/index.html</link>
@@ -21,25 +35,11 @@
             <pubDate>Fri, 15 Apr 2016 02:26:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Target Audiences]]></title>
-            <description><![CDATA[<article><h1>Target Audiences</h1><p>School groups</p></article>]]></description>
-            <link>https://thegrid.ai/jensaltheimer-com/target-audiences/index.html</link>
-            <guid isPermaLink="false">ad1c6eb3-85c3-4d66-a817-600df93523d5</guid>
-            <pubDate>Fri, 15 Apr 2016 02:24:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[LOOSE ENDS: The Show]]></title>
             <description><![CDATA[<article><h1>LOOSE ENDS: The Show</h1><h2>Where Naughty Puppets meet Wacky Contraptions</h2></article>]]></description>
             <link>https://thegrid.ai/jensaltheimer-com/loose-ends/index.html</link>
             <guid isPermaLink="false">7110f96a-686d-424f-b6b6-53b71efcba48</guid>
             <pubDate>Wed, 13 Apr 2016 22:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loose Ends Teaser]]></title>
-            <description><![CDATA[<article><h1>Loose Ends Teaser</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29be5a62bec9a05be007e2d3cc016ff3d6222cc3.jpg"></article>]]></description>
-            <link>https://vimeo.com/124080851</link>
-            <guid isPermaLink="false">1d549d39-f6bd-49c2-9f50-b865999660e0</guid>
-            <pubDate>Wed, 13 Apr 2016 21:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

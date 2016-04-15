@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-04-15T04:02:38.575Z'
-dateModified: '2016-04-15T04:01:47.177Z'
+description: April
+datePublished: '2016-04-15T04:16:20.947Z'
+dateModified: '2016-04-15T04:16:13.064Z'
 title: Touring Dates and Venues LOOSE ENDS 2016
 author: []
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md
@@ -26,17 +26,17 @@ _type: Article
 
 Touring Dates and Venues LOOSE ENDS 2016
 
-April
+**April**
 
 Gasworks Theatre Melbourne                       Tue 5, 11 am & 1.30 pm
 
 Whitehorse Centre, Nunawading                Thur 7, 11 am
 
-June
+**June**
 
 Warrnambool Fun for Kids                              Mon 27 & Tue 28, times TBC
 
-September
+**September**
 
 Performing Arts Centre Ararat                     Tue 6, 11 am
 
@@ -54,7 +54,7 @@ Williamstown Mechanics Hall                      Tue 27, 11am & 6 pm
 
 Bairnsdale Forge Theatre and Artshub     Thur 29, 11 am
 
-October
+**October**
 
 Warburton Mechanics Institute                   Sun 2, 3 pm
 

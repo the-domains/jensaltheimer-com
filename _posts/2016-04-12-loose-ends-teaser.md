@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/124080851'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T02:42:50.257Z'
-dateModified: '2016-04-15T02:42:45.150Z'
+datePublished: '2016-04-15T03:05:17.402Z'
+dateModified: '2016-04-15T03:04:17.144Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'

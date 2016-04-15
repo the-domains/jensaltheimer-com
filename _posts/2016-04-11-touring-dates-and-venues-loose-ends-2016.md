@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Touring Dates and Venues LOOSE ENDS 2016
-datePublished: '2016-04-13T03:47:55.684Z'
-dateModified: '2016-04-13T03:36:24.028Z'
-title: ''
+description: ''
+datePublished: '2016-04-15T03:17:42.581Z'
+dateModified: '2016-04-15T03:17:38.474Z'
+title: Touring Dates and Venues LOOSE ENDS 2016
 author: []
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md
 published: true
@@ -22,8 +22,7 @@ url: touring-dates-and-venues-loose-ends-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c38cef-1888-4d25-8c2b-e4791e66a6c1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0e28299-1c5f-415c-a33b-70b625b97746.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d16d1c1-4331-49a9-986a-fe1527aea513.jpg)
 
 Touring Dates and Venues LOOSE ENDS 2016
 

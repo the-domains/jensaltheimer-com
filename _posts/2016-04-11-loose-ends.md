@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T03:05:03.153Z'
-dateModified: '2016-04-15T03:04:00.938Z'
+datePublished: '2016-04-15T03:46:01.872Z'
+dateModified: '2016-04-15T03:45:50.943Z'
 title: 'LOOSE ENDS: The Show'
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md
@@ -27,7 +27,7 @@ _type: Article
 ## Where Naughty Puppets meet Wacky Contraptions
 
 MAKERS, CREATORS, STORY-LOVERS: Dive into a theatrical adventure full of action, that feels like the magic box of a bygone trickster!
-Set in a wondrous tinkering heaven, the show is a celebration of the capricious. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f8bd0140e85c140047f6520af98f21ff88c0b8b.jpg)
+Set in a wondrous tinkering heaven, the show is a celebration of the capricious. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61ae86dba6de7e6f4a2d333b474b7760fd8917cf.jpg)
 
 Familiar household items are transformed and show off with new and delightful uses, offering a humorous and human look at the world that surrounds us.
 Expect clever clowning, custom- built contraptions, headstrong puppets, circus, shadow projection, music with carrots, wacky gadgets and a whole lot of fun...but don't expect that everything follows the path of your expectations! 

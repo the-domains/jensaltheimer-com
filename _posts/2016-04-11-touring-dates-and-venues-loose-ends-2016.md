@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: April
-datePublished: '2016-04-15T04:16:20.947Z'
-dateModified: '2016-04-15T04:16:13.064Z'
+description: ''
+datePublished: '2016-04-15T04:17:05.136Z'
+dateModified: '2016-04-15T04:16:58.635Z'
 title: Touring Dates and Venues LOOSE ENDS 2016
 author: []
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md

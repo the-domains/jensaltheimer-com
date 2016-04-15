@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T21:59:46.636Z'
-dateModified: '2016-04-13T21:58:58.083Z'
+datePublished: '2016-04-15T02:26:41.290Z'
+dateModified: '2016-04-15T02:26:40.342Z'
 title: What people said after the first shows
 author: []
 sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md
@@ -43,8 +43,5 @@ _type: Article
 > 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1d14015-8fcf-4eb2-8b8a-d70c206942fe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17b0f55d-83a4-42cb-bfdb-fd01e9892bb3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0ebdd25-1e40-49c0-8d56-c5353e96d876.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11991ffc-d108-4931-802b-1ee8adbf5adb.jpg)
 
 [0]: null

@@ -1,6 +1,6 @@
 name: www.jensaltheimer.com
 favicon: null
-layout_spectrum: 0.86224
+layout_spectrum: 0.93931
 typography_spectrum: 0.2931
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#231f20'
     - '#fad73e'
   brandStrength: 0.0625
-  lightness: 0.5625
-  saturation: 0.6875
+  lightness: 0.375
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []

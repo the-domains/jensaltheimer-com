@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-19T04:57:17.065Z'
-dateModified: '2016-04-19T04:57:06.040Z'
+datePublished: '2016-04-19T07:14:13.228Z'
+dateModified: '2016-04-19T07:14:12.625Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-what-people-said-after-the-first-shows.md
@@ -31,21 +31,25 @@ _type: Article
 > The show incorporates Jens' signature chaotic energy, and his intriguing performance and quirky story line keep the audience intrigued throughout.
 > 
 > The show features characters and wacky ideas that might come from the mind of a genius, or a child, or both!
-
-Tony Smith, Creative Producer Gasworks
+> 
+> _Tony Smith, Creative Producer Gasworks_
+> 
+> __
 
 > Thank you for presenting Loose Ends here today. I had very positive feedback from patrons, particularly parents who liked the fact that their kids were so engaged in something not screen based!
-
-Robyn Mc Nicol, Coordinator Whitehorse Centre
+> 
+> _Robyn Mc Nicol, Coordinator Whitehorse Centre_
 
 __
 
 > Go see the show if you can. It is quirky. Funny and a lot clever.
-
-Amanda Besley, Facebook 
+> 
+> _Amanda Besley on Facebook_
 
 __
 
 > Thanks Jens for a great Loose Ends show this morning at Whitehorse Centre. The kids and I loved it!
+> 
+> _Maria Piera on Facebook _
 
-Maria Piera, Facebook ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1d14015-8fcf-4eb2-8b8a-d70c206942fe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1d14015-8fcf-4eb2-8b8a-d70c206942fe.jpg)

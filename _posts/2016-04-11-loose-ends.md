@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-24T03:24:53.163Z'
-dateModified: '2016-04-19T07:28:07.307Z'
+datePublished: '2016-04-24T04:22:49.860Z'
+dateModified: '2016-04-24T04:22:10.108Z'
 title: 'LOOSE ENDS: The Show'
 author: []
 sourcePath: _posts/2016-04-11-loose-ends.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: loose-ends/index.html
 _type: Article
 

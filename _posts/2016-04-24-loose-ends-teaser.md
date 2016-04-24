@@ -6,11 +6,11 @@ isBasedOnUrl: 'https://vimeo.com/124080851'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T04:06:29.106Z'
-dateModified: '2016-04-24T04:06:26.923Z'
+datePublished: '2016-04-24T12:27:46.414Z'
+dateModified: '2016-04-24T12:27:42.004Z'
 author:
-  - name: Jens Altheimer
-    url: 'http://vimeo.com/user22971091'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links:

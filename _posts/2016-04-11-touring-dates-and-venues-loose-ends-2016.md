@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T13:15:41.447Z'
-dateModified: '2016-04-24T12:44:31.295Z'
+datePublished: '2016-04-24T13:23:44.724Z'
+dateModified: '2016-04-24T13:23:33.898Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: touring-dates-and-venues-loose-ends-2016/index.html
 _type: Article
 
 ---
-## Touring Dates and Venues LOOSE ENDS 2016
+## Touring Dates and Venues 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5af06380f7b49f0fa3daef0d9d218dd8cafd8557.jpg)
 
 ****

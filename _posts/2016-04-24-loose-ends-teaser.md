@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/124080851'
 inLanguage: null
 keywords: []
 description: This video is about Loose Ends Teaser
-datePublished: '2016-04-24T03:46:22.456Z'
-dateModified: '2016-04-24T03:46:13.893Z'
+datePublished: '2016-04-24T03:49:21.557Z'
+dateModified: '2016-04-24T03:48:06.325Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'
@@ -47,9 +47,9 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-starred: false
 sourcePath: _posts/2016-04-24-loose-ends-teaser.md
 published: true
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 

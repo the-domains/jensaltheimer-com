@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: April
-datePublished: '2016-04-24T04:11:46.099Z'
-dateModified: '2016-04-24T04:11:41.447Z'
+datePublished: '2016-04-24T04:12:27.198Z'
+dateModified: '2016-04-24T04:12:18.504Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md

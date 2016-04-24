@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: April
-datePublished: '2016-04-19T07:14:30.955Z'
-dateModified: '2016-04-19T07:14:30.222Z'
+datePublished: '2016-04-24T04:11:46.099Z'
+dateModified: '2016-04-24T04:11:41.447Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: touring-dates-and-venues-loose-ends-2016/index.html
 _type: Article
 

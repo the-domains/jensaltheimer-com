@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: April
-datePublished: '2016-04-24T04:31:14.374Z'
-dateModified: '2016-04-24T04:30:41.037Z'
+datePublished: '2016-04-24T04:34:25.443Z'
+dateModified: '2016-04-24T04:34:19.711Z'
 title: ''
 author:
   - name: ''
@@ -35,7 +35,7 @@ Whitehorse Centre, Nunawading Thur 7, 11 am
 
 **June**
 
-Warrnambool Fun for Kids Mon 27 & Tue 28, times TBC
+Warrnambool Fun for Kids Mon 27 3.45 pm& Tue 28, 10 am & 3.45 pm
 
 **September**
 

@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/124080851'
 inLanguage: null
 keywords: []
 description: This video is about Loose Ends Teaser
-datePublished: '2016-04-24T03:49:21.557Z'
-dateModified: '2016-04-24T03:48:06.325Z'
+datePublished: '2016-04-24T03:52:41.321Z'
+dateModified: '2016-04-24T03:52:39.075Z'
 author:
   - name: Jens Altheimer
     url: 'http://vimeo.com/user22971091'
@@ -41,14 +41,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Loose Ends Teaser
+sourcePath: _posts/2016-04-24-loose-ends-teaser.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-04-24-loose-ends-teaser.md
-published: true
 starred: true
 _type: VideoObject
 _context: 'http://schema.org'

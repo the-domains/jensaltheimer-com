@@ -4,13 +4,12 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/124080851'
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T04:02:54.431Z'
-dateModified: '2016-04-15T04:02:30.297Z'
+datePublished: '2016-04-24T03:12:47.413Z'
+dateModified: '2016-04-24T03:12:41.939Z'
 author:
-  - name: Jens Altheimer
+  - name: ''
     url: 'http://vimeo.com/user22971091'
     avatar: {}
 related: []
@@ -50,6 +49,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 

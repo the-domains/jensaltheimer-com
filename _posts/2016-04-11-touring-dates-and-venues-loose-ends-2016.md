@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: April
-datePublished: '2016-04-24T04:12:27.198Z'
-dateModified: '2016-04-24T04:12:18.504Z'
+datePublished: '2016-04-24T04:31:14.374Z'
+dateModified: '2016-04-24T04:30:41.037Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-11-touring-dates-and-venues-loose-ends-2016.md
 published: true
 authors: []
@@ -22,9 +24,8 @@ url: touring-dates-and-venues-loose-ends-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d16d1c1-4331-49a9-986a-fe1527aea513.jpg)
-
 ## Touring Dates and Venues LOOSE ENDS 2016
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5af06380f7b49f0fa3daef0d9d218dd8cafd8557.jpg)
 
 **April**
 
